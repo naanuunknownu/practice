@@ -3,3 +3,4 @@ Added in localhost
 Added in remote again
 4th line for rebase
 5th local line
+6th Local line branch newbranch
