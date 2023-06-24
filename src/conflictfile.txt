@@ -5,3 +5,6 @@ Added in remote again
 5th local line
 6th Local line branch newbranch
 new commit nin newbranch
+
+
+Doing some commit now like an idiot
